@@ -1,7 +1,7 @@
 # Java-DSA-Practice
 📘 Java DSA Practice 🚀  A collection of my Java programming &amp; Data Structures and Algorithms (DSA) practice problems. This repository is organized topic-wise for easier navigation and revision.
 
-#By Shaik Nayab Rasool
+# By Shaik Nayab Rasool
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?logo=java)
 ![GitHub repo size](https://img.shields.io/github/repo-size/imnayab/Java-DSA-Practice)
@@ -23,8 +23,8 @@ Java-DSA-Practice/
 ├── Strings/ # String-related problems (to be added)
 ├── LinkedList/ # Linked list implementations (to be added)
 └── README.md
----
 
+---
 ## 📌 Topics Covered 
 
 ✔ Basics of Java  
